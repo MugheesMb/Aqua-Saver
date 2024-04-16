@@ -1,7 +1,7 @@
-<h1 align="center"> DripDrop </h1> 
+<h1 align="center"> Aqua-Saver </h1> 
 <h3 align="center"> Making Water accessible to all </h3>
 
-To view  live  this app, **[click here](https://youtu.be/ZXKpvKoDwIs)**
+To view  live  this app, **[click here](https://youtu.be/ZXKp)**
 
 ## Features 📚
 
@@ -20,7 +20,7 @@ To view  live  this app, **[click here](https://youtu.be/ZXKpvKoDwIs)**
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MugheesMb/DripDrop
+$ git clone https://github.com/MugheesMb/Aqua-Saver.git
 
 # Go into the repository
 $ cd DripDrop
