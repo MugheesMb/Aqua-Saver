@@ -23,7 +23,7 @@ To view  live  this app, **[click here](https://youtu.be/ZXKp)**
 $ git clone https://github.com/MugheesMb/Aqua-Saver.git
 
 # Go into the repository
-$ cd DripDrop
+$ cd Aqua-Saver
 
 # Open project in VS code
 $ code .
